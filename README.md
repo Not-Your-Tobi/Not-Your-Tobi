@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tobi 
 - 👀 I’m a data scientist 
-- 🌱 I’m currently learning  about more learning algorithms and how to implement them efficiently.
+- 🌱 I’m currently learning  about more algorithms and how to implement them efficiently.
 - 📫 How to reach me ... email: @themarveloustobi@gmail.com 
 
 <!---
